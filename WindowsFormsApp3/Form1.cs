@@ -23,5 +23,10 @@ namespace WindowsFormsApp3
 
             //Kullanıcı Hesapları
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //Kontrol ayarları yapıldı.
+        }
     }
 }
